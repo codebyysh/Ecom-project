@@ -1,0 +1,16 @@
+INSERT INTO Product (ID, AVAILABLE, BRAND, CATEGORY, `DESC`, NAME, PRICE, QUANTITY, RELEASE_DATE) VALUES
+(1, TRUE, 'Toyota', 'SUV', 'Compact and fuel-efficient SUV', 'Toyota RAV4', 28000.00, 10, '2023-03-15'),
+(2, TRUE, 'Honda', 'Sedan', 'Reliable sedan with modern features', 'Honda Accord', 25000.00, 15, '2022-07-10'),
+(3, TRUE, 'BMW', 'Luxury', 'High-performance luxury vehicle', 'BMW 5 Series', 55000.00, 5, '2023-01-20'),
+(4, FALSE, 'Audi', 'Sedan', 'Luxury and sporty feel', 'Audi A4', 48000.00, 0, '2021-12-05'),
+(5, TRUE, 'Hyundai', 'Hatchback', 'Affordable city hatchback', 'Hyundai i20', 12000.00, 25, '2022-09-30'),
+(6, TRUE, 'Kia', 'SUV', 'Spacious and stylish SUV', 'Kia Seltos', 19000.00, 18, '2023-04-01'),
+(7, FALSE, 'Tesla', 'Electric', 'Fully electric with autopilot', 'Tesla Model 3', 42000.00, 0, '2023-02-14'),
+(8, TRUE, 'Ford', 'Pickup', 'Rugged and powerful truck', 'Ford F-150', 35000.00, 8, '2022-11-11'),
+(9, TRUE, 'Chevrolet', 'SUV', 'Family SUV with space and comfort', 'Chevrolet Tahoe', 46000.00, 6, '2023-05-20'),
+(10, TRUE, 'Nissan', 'Sedan', 'Smooth ride and efficient', 'Nissan Altima', 23000.00, 12, '2022-08-18'),
+(11, TRUE, 'Volkswagen', 'Hatchback', 'Premium feel hatchback', 'VW Golf', 22000.00, 20, '2023-06-01'),
+(12, TRUE, 'Skoda', 'Sedan', 'Spacious and elegant design', 'Skoda Octavia', 27000.00, 7, '2023-03-03'),
+(13, TRUE, 'Mahindra', 'SUV', 'Rugged Indian SUV', 'Mahindra Thar', 18000.00, 14, '2023-01-01'),
+(14, TRUE, 'Tata', 'Hatchback', 'Budget friendly and safe', 'Tata Altroz', 10000.00, 30, '2023-07-01'),
+(15, TRUE, 'Maruti', 'Compact', 'Most popular Indian car', 'Maruti Swift', 9500.00, 35, '2023-06-15');
